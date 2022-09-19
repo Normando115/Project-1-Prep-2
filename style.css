@@ -1,0 +1,59 @@
+
+body{
+  background-color: #F7C1BB;
+    text-align:center;
+
+    font-family: pacifico, Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+
+}
+h1{
+  text-align: center;
+  width:700px;
+  padding:0px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 24pt;
+    color: #885A5A;
+    font-family: annie use your telescope, sans-serif;
+      font-family: pacifica,annie use your telescope;
+}
+
+h2{
+  text-align: center;
+  width:700px;
+  padding:0px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 16pt;
+    color: #DC136C;
+    font-family: annie use your telescope, sans-serif;
+      font-family: pacifica,annie use your telescope;
+}
+em{
+  text-align: center;
+  padding:0px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+    font-size: 32pt;
+}
+img{
+
+    box-shadow: 5px 5px 5px rgba(0,0,0,.3);
+}
+a{
+    font-family 12pt;
+    color:#9f2df7;
+}
+
+a:hover{
+    color:#84B082;
+}
+
+.name {
+	font-size:40px;
+	font-family: annie use your telescope, sans-serif;
+  color: #273558;
